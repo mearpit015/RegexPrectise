@@ -1,4 +1,4 @@
-# RegexPrecise   
+# RegexPrecise 
 
 *               Match zero or more times.
 +               Match one or more times.
