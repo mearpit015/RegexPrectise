@@ -21,4 +21,5 @@ an+	        Match an "a" followed by one or more "n" characters.
 /[a-z]/i        Case Insensitive match(ARPIT).
 /^[0-9]{11}$/   Match digit which max leangth is 11 digit like 12345678901.
 \W              Not Match word characters.
+
 RegexPrecise
